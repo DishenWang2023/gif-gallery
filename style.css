@@ -1,0 +1,26 @@
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+  font-family: Helvetica, Arial;
+  text-align: center;
+}
+
+/* Set the size of the containers */
+.drawing {
+  box-sizing: border-box;
+  margin: 5px;
+  vertical-align: top;
+  background-color: #525252;
+  display: inline-block;
+  border-radius: 1px;
+}
+
+.drawing-label {
+  margin: 10px;
+}
+
+/* Set the size of the containers */
+.drawing-p5holder {
+  box-sizing: border-box;
+  margin: 5px;
+}
